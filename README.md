@@ -3,6 +3,7 @@ Hello! I'm Ausaf Vohra, a Senior Software Engineer with a strong expertise in Ja
 
 ## Skills
 Frontend Development:
+
 React.js/ts
 Next.js/ts
 Vue.js
@@ -14,7 +15,9 @@ Ant Design
 SCSS
 Styled Components
 Story book
+
 Backend Development:
+
 Node.js/ts
 Nest.js/ts
 Express
@@ -26,18 +29,24 @@ RestApi
 Postman
 Firebase
 Microservices
+
 Mobile App Development:
+
 React Native (Cli/Expo)
 Flutter
 Kotlin
 Swift
+
 CMS Development:
+
 WordPress
 Shopify
 Squarespace
 Hubspot
 WIX
+
 DevOps Engineering:
+
 CI/CD
 AWS
 Google Cloud
