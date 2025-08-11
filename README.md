@@ -9,13 +9,7 @@ Next.js / TypeScript
 Vue.js  
 Nuxt.js  
 Angular  
-MUI  
-Chakra UI  
-Ant Design  
-SCSS  
-Styled Components  
-Storybook  
-
+ 
 **Backend Development:**
 
 Node.js / TypeScript  
@@ -26,24 +20,17 @@ SQL
 PostgreSQL  
 GraphQL  
 REST API  
-Postman  
 Firebase  
-Microservices  
 
 **Mobile App Development:**
 
 React Native (CLI / Expo)  
 Flutter  
-Kotlin  
-Swift  
 
 **CMS Development:**
 
 WordPress  
 Shopify  
-Squarespace  
-HubSpot  
-WIX  
 
 **DevOps Engineering:**
 
@@ -51,8 +38,5 @@ CI/CD
 AWS  
 Google Cloud  
 Azure  
-Heroku  
-Netlify  
-VPS  
-Linux  
+ 
 
