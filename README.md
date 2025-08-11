@@ -4,16 +4,16 @@ Hello! I'm Ausaf Vohra, a Senior Software Engineer with a strong expertise in Ja
 ## Skills
 **Frontend Development:**
 
-React.js / TypeScript  
-Next.js / TypeScript  
-Vue.js  
-Nuxt.js  
+React.JS / TypeScript  
+Next.JS / TypeScript  
+Vue.JS 
+Nuxt.JS  
 Angular  
  
 **Backend Development:**
 
-Node.js / TypeScript  
-Nest.js / TypeScript  
+Node.JS / TypeScript  
+Nest.JS / TypeScript  
 Express  
 MongoDB  
 SQL  
